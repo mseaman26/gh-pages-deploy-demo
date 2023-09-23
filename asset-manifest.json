@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/gh-pages-deploy-demo/static/css/main.68911ae5.css",
+    "main.js": "/gh-pages-deploy-demo/static/js/main.418a1e71.js",
+    "static/js/988.31f2873d.chunk.js": "/gh-pages-deploy-demo/static/js/988.31f2873d.chunk.js",
+    "static/media/Casa_Susana_1_V2.gif": "/gh-pages-deploy-demo/static/media/Casa_Susana_1_V2.6321ba7e2b06de650073.gif",
+    "static/media/surfShopOverview.gif": "/gh-pages-deploy-demo/static/media/surfShopOverview.39a36445f796afe1fea2.gif",
+    "static/media/nerdle_cropped.gif": "/gh-pages-deploy-demo/static/media/nerdle_cropped.1624ec41014fd9e118a8.gif",
+    "static/media/Pokedex_Tracker.gif": "/gh-pages-deploy-demo/static/media/Pokedex_Tracker.ef6b6ef26da71ed32447.gif",
+    "static/media/baseballGrapherScreenShot.png": "/gh-pages-deploy-demo/static/media/baseballGrapherScreenShot.2465c2479a21317668c5.png",
+    "static/media/Mike_Seaman.pdf": "/gh-pages-deploy-demo/static/media/Mike_Seaman.50893e62df961c5a4b59.pdf",
+    "index.html": "/gh-pages-deploy-demo/index.html",
+    "main.68911ae5.css.map": "/gh-pages-deploy-demo/static/css/main.68911ae5.css.map",
+    "main.418a1e71.js.map": "/gh-pages-deploy-demo/static/js/main.418a1e71.js.map",
+    "988.31f2873d.chunk.js.map": "/gh-pages-deploy-demo/static/js/988.31f2873d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68911ae5.css",
+    "static/js/main.418a1e71.js"
+  ]
+}
